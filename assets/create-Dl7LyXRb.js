@@ -1,0 +1,1 @@
+import{_ as e}from"./index-6WvFIG47.js";const r={};function c(t,_){return"create"}const a=e(r,[["render",c]]);export{a as default};
